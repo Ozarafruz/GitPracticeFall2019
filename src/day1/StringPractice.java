@@ -5,6 +5,7 @@ public class StringPractice {
 
 
         System.out.println("Hello, world!");
-
+        String str = "Java is fun!";
+        System.out.println(str);
     }
 }
